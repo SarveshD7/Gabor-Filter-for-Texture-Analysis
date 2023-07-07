@@ -3,4 +3,4 @@ Implementation of a basic Gabor Filter using OpenCV for texture analysis
 
 
 # Input Output and the Filter
-![Uploading image.png…]()
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/Gabor-Filter-for-Texture-Analysis/main/GaborFilterOutput.jpg" alt="Output | C" width="500px"/>
